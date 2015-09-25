@@ -1,0 +1,13 @@
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\bin\Debug\ShortcutStartMacro.exe.config
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\bin\Debug\ShortcutStartMacro.exe
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\bin\Debug\ShortcutStartMacro.pdb
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\bin\Debug\InputSimulator.dll
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\bin\Debug\InputSimulator.pdb
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\bin\Debug\InputSimulator.xml
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\obj\Debug\ShortcutStartMacro.csprojResolveAssemblyReference.cache
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\obj\Debug\ShortcutStartMacro.Form1.resources
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\obj\Debug\ShortcutStartMacro.Properties.Resources.resources
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\obj\Debug\ShortcutStartMacro.UserControl1.resources
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\obj\Debug\ShortcutStartMacro.csproj.GenerateResource.Cache
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\obj\Debug\ShortcutStartMacro.exe
+C:\Users\rudolf\documents\visual studio 2013\Projects\ShortcutStartMacro\ShortcutStartMacro\obj\Debug\ShortcutStartMacro.pdb
